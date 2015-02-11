@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import urllib2
-import re
 import os
 from bs4 import *
 import sys
